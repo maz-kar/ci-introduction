@@ -1,4 +1,4 @@
-# How to do CI/CD for iOS? 
+# How to do CI/CD for iOS?
 
 This tutorial will teach you how to setup your own CI/CD based on the setup we currently have in Axel Springer in BILD team. BILD is a production app that currently has around 2M MAU.
 

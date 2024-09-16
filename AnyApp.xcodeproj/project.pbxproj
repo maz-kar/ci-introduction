@@ -14,6 +14,7 @@
 		66FF155628759933003595E3 /* AnyAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FF155528759933003595E3 /* AnyAppTests.swift */; };
 		66FF156028759933003595E3 /* AnyAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FF155F28759933003595E3 /* AnyAppUITests.swift */; };
 		66FF156228759933003595E3 /* AnyAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FF156128759933003595E3 /* AnyAppUITestsLaunchTests.swift */; };
+		6B62DC192C9894960075E981 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6B62DC182C9894960075E981 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		66FF155B28759933003595E3 /* AnyAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnyAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66FF155F28759933003595E3 /* AnyAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyAppUITests.swift; sourceTree = "<group>"; };
 		66FF156128759933003595E3 /* AnyAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6B62DC182C9894960075E981 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		66FF15382875992F003595E3 = {
 			isa = PBXGroup;
 			children = (
+				6B62DC182C9894960075E981 /* README.md */,
 				66FF15432875992F003595E3 /* AnyApp */,
 				66FF155428759933003595E3 /* AnyAppTests */,
 				66FF155E28759933003595E3 /* AnyAppUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B62DC192C9894960075E981 /* README.md in Resources */,
 				66FF154C28759933003595E3 /* Preview Assets.xcassets in Resources */,
 				66FF154928759933003595E3 /* Assets.xcassets in Resources */,
 			);
